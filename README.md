@@ -4,10 +4,6 @@
 
 This repository contains the source code for a real-time embedded systems project developed using the Texas Instruments Real-Time Operating System (TI-RTOS). The project involves porting a [Digital Oscilloscope](https://github.com/argrabowski/digital-oscilloscope) to TI-RTOS and implementing a spectrum analyzer.
 
-- **Lab Name:** Real-Time Embedded Systems Lab 2
-- **Authors:** Adam Grabowski, Michael Rideout
-- **Lab Date:** April 14, 2022
-
 ## Description
 
 The project involves the following major components:
